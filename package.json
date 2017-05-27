@@ -1,7 +1,7 @@
 {
-  "name": "reactboilerplate",
+  "name": "react-weather",
   "version": "1.0.0",
-  "description": "A simple react/boilerplate",
+  "description": "A simple react weather",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
